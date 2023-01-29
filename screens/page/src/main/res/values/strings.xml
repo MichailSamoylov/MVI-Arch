@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pokemon_page_error_message">Ошибка загрузки списка покемонов,\nпроверьте соединение с интернетом</string>
+	<string name="pokemon_page_wight_text">Ширина:</string>
+	<string name="pokemon_page_height_text">Высота:</string>
+	<string name="pokemon_page_type_text">Тип:</string>
+</resources>
